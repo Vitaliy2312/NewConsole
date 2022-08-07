@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\Testing_С#\Testing001_HelloConsole\bin\Debug\net6.0\Testing001_HelloConsole.exe
+C:\Users\Acer\Desktop\Testing_С#\Testing001_HelloConsole\bin\Debug\net6.0\Testing001_HelloConsole.deps.json
+C:\Users\Acer\Desktop\Testing_С#\Testing001_HelloConsole\bin\Debug\net6.0\Testing001_HelloConsole.runtimeconfig.json
+C:\Users\Acer\Desktop\Testing_С#\Testing001_HelloConsole\bin\Debug\net6.0\Testing001_HelloConsole.dll
+C:\Users\Acer\Desktop\Testing_С#\Testing001_HelloConsole\bin\Debug\net6.0\Testing001_HelloConsole.pdb
+C:\Users\Acer\Desktop\Testing_С#\Testing001_HelloConsole\obj\Debug\net6.0\Testing001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Testing_С#\Testing001_HelloConsole\obj\Debug\net6.0\Testing001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Testing_С#\Testing001_HelloConsole\obj\Debug\net6.0\Testing001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Testing_С#\Testing001_HelloConsole\obj\Debug\net6.0\Testing001_HelloConsole.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Testing_С#\Testing001_HelloConsole\obj\Debug\net6.0\Testing001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Testing_С#\Testing001_HelloConsole\obj\Debug\net6.0\Testing001_HelloConsole.dll
+C:\Users\Acer\Desktop\Testing_С#\Testing001_HelloConsole\obj\Debug\net6.0\refint\Testing001_HelloConsole.dll
+C:\Users\Acer\Desktop\Testing_С#\Testing001_HelloConsole\obj\Debug\net6.0\Testing001_HelloConsole.pdb
+C:\Users\Acer\Desktop\Testing_С#\Testing001_HelloConsole\obj\Debug\net6.0\Testing001_HelloConsole.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Testing_С#\Testing001_HelloConsole\obj\Debug\net6.0\ref\Testing001_HelloConsole.dll
