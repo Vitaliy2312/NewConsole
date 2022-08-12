@@ -5,11 +5,9 @@ void FillArrey(int[] collection)
     int index = 0;
     while (index < Length)
     collection[index] = new Random().Next(1, 10);    // Обращаемся к арументу collectin на позиции index и кладем туда новое случайное целое число издиапозона 1-10 
-
-
+    
     index++;
 }
-
 void PrintArray(int[] col) // Метод не возвращающий значения, принем не используется оператор return
 {
     int cuont = col.Length;
@@ -20,7 +18,6 @@ void PrintArray(int[] col) // Метод не возвращающий знач�
         position++;
     }
 }
-
 int indexOf(int[] collection, int find)
 {
     int cuont = collection.Length;
